@@ -1,0 +1,31 @@
+{
+  "contatos": [
+    {
+      "nome": "Maria",
+      "telefone": "99 99999999",
+      "email": "maria@email.com",
+      "aniversario": "1995-03-06",
+      "redes": "",
+      "observacoes": "",
+      "id": 1
+    },
+    {
+      "nome": "João",
+      "telefone": "88 88888888",
+      "email": "maria@email.com",
+      "aniversario": "1990-06-03",
+      "redes": "",
+      "observacoes": "",
+      "id": 2
+    },
+    {
+      "nome": "Romário Silva",
+      "telefone": "11954003164",
+      "email": "Romario@hotmail.com",
+      "aniversario": "1994-11-08",
+      "redes": "https://www.linkedin.com/feed/",
+      "observacoes": "Eu sou DEV",
+      "id": 3
+    }
+  ]
+}
